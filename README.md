@@ -1,7 +1,7 @@
 - 👋 Hi, I’m RCW
 - 👀 I’m interested in business analyse and leadership framework
-- 🌱 I’m currently learning SQL and Github
-- 💞️ I’m looking to collaborate on CRM and team productivity project
+- 🌱 I’m currently learning SQL, data modelling.
+- 💞️ I’m looking to collaborate on CRM and team productivity projects
 - 📫 You can reach me here 
 - ⚡ Fun fact: I love cooking
 
